@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-term student in the Computer Systems Technology program at the British Columbia Institute of Technology. With a well-rounded skill set in web development, mobile development, and object-oriented and procedural programming, I am looking for an entry-level software development job upon graduation.
+I am a recent graduate with distinction from the Computer Systems Technology program at the British Columbia Institute of Technology, where I specialized in Predictive Analytics My skill set includes a broad range of abilities in web and mobile development, as well as object-oriented and procedural programming. I am eager to join a company that values ongoing learning and professional growth, where I can contribute my skills to meaningful projects while continuing to develop my abilities as a young professional.
 
 
 ## 🌐 Socials:
