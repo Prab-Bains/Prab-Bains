@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent graduate with distinction from the Computer Systems Technology program at the British Columbia Institute of Technology, where I specialized in Predictive Analytics My skill set includes a broad range of abilities in web and mobile development, as well as object-oriented and procedural programming. I am eager to join a company that values ongoing learning and professional growth, where I can contribute my skills to meaningful projects while continuing to develop my abilities as a young professional.
+By the end of my current contract, I will have almost a year of professional experience. While I have substantial expertise in web development projects, I am also open to exploring various other tech roles that interest me. I am seeking a company that offers a permanent role where I can continue to learn and grow within the organization.
 
 
 ## 🌐 Socials:
